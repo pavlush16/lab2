@@ -9,3 +9,14 @@ class Calculator
 };
 
 #endif//CALCULATOR_H
+// h
+// e
+// l
+// l
+// o
+// 
+// w
+// o
+// r
+// l
+// d
